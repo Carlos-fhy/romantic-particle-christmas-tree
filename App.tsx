@@ -5,7 +5,6 @@ import MagicOverlay from './components/MagicOverlay';
 import Controls from './components/Controls';
 import ShootingStar from './components/ShootingStar';
 import { TreeMode } from './types';
-import { AUDIO_URL } from './constants';
 
 const App: React.FC = () => {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -169,7 +168,7 @@ const App: React.FC = () => {
 
       {/* Audio element pointing to constant URL */}
       <audio ref={audioRef} loop preload="auto">
-        <source src={AUDIO_URL} type="audio/mpeg" />
+        <source src={`${import.meta.env.BASE_URL}all-i-want-for-xmas-is-you.mp3`} type="audio/mpeg" />
       </audio>
 
     </div>
