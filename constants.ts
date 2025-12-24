@@ -20,7 +20,7 @@ export const TRUNK_COLORS = {
 };
 
 // All I Want For Christmas Is You - Mariah Carey
-export const AUDIO_URL = "/all i want for xmas is you.mp3"; 
+export const AUDIO_URL = "/all-i-want-for-xmas-is-you.mp3"; 
 
 export const TREE_HEIGHT_RATIO = 0.85; 
 // Increased particle count for richer visuals (Ribbons + Orbits)
