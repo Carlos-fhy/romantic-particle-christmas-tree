@@ -159,13 +159,6 @@ export const MAX_PARTICLES = 5500; // 根据性能调整
 
 替换 `public/` 中的音频文件并更新 `constants.ts` 中的 `AUDIO_URL`。
 
-## 性能优化
-
-- 粒子系统使用 `requestAnimationFrame` 实现流畅的 60fps 渲染
-- 深度排序实现真实的 3D 外观
-- 使用分层 Canvas 的高效渲染
-- 优化的粒子生命周期管理
-
 ## 浏览器支持
 
 - 支持 HTML5 Canvas 的现代浏览器
@@ -173,14 +166,6 @@ export const MAX_PARTICLES = 5500; // 根据性能调整
 - Firefox 88+
 - Safari 14+
 - Edge 90+
-
-## 贡献
-
-欢迎贡献！请随时提交 Pull Request。
-
-## 许可证
-
-本项目是开源的，使用 MIT 许可证。
 
 ## 致谢
 
