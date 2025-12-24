@@ -167,16 +167,6 @@ export const MAX_PARTICLES = 5500; // 根据性能调整
 - Safari 14+
 - Edge 90+
 
-## 致谢
-
-- 音乐：Mariah Carey 的 "All I Want For Christmas Is You"
-- 字体：Great Vibes、Montserrat（Google Fonts）
-- 图标：Lucide React
-
-## 联系方式
-
-GitHub：[@Carlos-fhy](https://github.com/Carlos-fhy)
-
 ---
 
-**注意**：这是一个节日主题的 Web 应用，旨在传播节日欢乐。尽情享受这棵互动圣诞树，并与世界分享你的愿望！
+**注意**：这是一个节日主题的 Web 应用，旨在传播节日欢乐。尽情享受这棵互动圣诞树，并与世界分享你的愿望！如有侵权，请联系删除。
